@@ -1,2 +1,23 @@
-# Education-consultancy-For-Abroad
-This is a web-based Software Engineering project developed to demonstrate the practical implementation of modern web development principles, software design methodologies, and the creation of interactive, user-friendly applications.
+# Software Engineering Web Project
+
+This is my Software Engineering course project.
+
+## Features
+- Appointment system
+- Admin page
+- Country information pages
+- Contact & feedback system
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- PHP
+
+## Project Structure
+- Frontend pages (.html)
+- Backend logic (.php)
+- Assets (img, logo)
+
+## Author
+Tonmoy Saha
